@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    background-image: url("Images/GooseDance.gif");
+    background-repeat: no-repeat;background-attachment: fixed;
+    background-size: cover;background-position: center;
+
+}
+
+a{
+    color: white;font-family: sans-serif , "consolas";font-size: 24px;
+}
+
+.Hello{
+    background-color: gold;border-style: outset;
+    border-color: goldenrod;border-width: 5px;
+    border-radius: 5px;padding: 5px;
+    color:black;font-weight: bold;
+    font-family: sans-serif , "consolas";font-size: 24px;
+}
+
+#gooseTitle{
+    color:gainsboro;
+}
